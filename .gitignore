@@ -1,0 +1,22 @@
+node_modules
+dist
+*.log
+.env
+.env.development
+.env.production
+.env.local
+.env.production.local
+.env.development.local
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+
+# Electron specific
+out/
+app/
+release/
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-workspace
